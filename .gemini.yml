@@ -1,0 +1,9 @@
+rootUrl: http://localhost:8080/test/screenshot/fixture
+screenshotsDir: 'diff'
+system:
+  projectRoot: test/screenshot
+browsers:
+  phantomjs:
+    gridUrl: http://localhost:8910
+    desiredCapabilities:
+      browserName: phantomjs
