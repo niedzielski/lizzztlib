@@ -1,0 +1,25 @@
+{
+  "name": "lizztlib",
+  "version": "0.0.0",
+  "description": "Library of lizzzt web components.",
+  "keywords": [],
+  "homepage": "https://github.com/rndmem/lizzztlib",
+  "repository": "github:rndmem/lizzztlib",
+  "bugs": "https://github.com/rndmem/lizzztlib/issues",
+  "main": "src",
+  "scripts": {
+    "postinstall": "bower i",
+    "update": "ncu -atu && bcu -atu",
+    "clean": "rm -rf node_modules bower_components"
+  },
+  "engines": {
+    "node": "6.3.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "1.7.9",
+    "bower-check-updates": "2.2.3-1",
+    "npm-check-updates": "2.7.2"
+  },
+  "license": "GPL-3.0"
+}
