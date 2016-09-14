@@ -22,7 +22,7 @@
     "gemini": "4.9.4",
     "gemini-gui": "4.3.3",
     "http-server": "0.9.0",
-    "npm-check-updates": "2.7.2",
+    "npm-check-updates": "2.8.0",
     "parallelshell": "2.0.0",
     "phantomjs": "2.1.7"
   },
